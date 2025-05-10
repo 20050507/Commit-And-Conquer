@@ -1,7 +1,7 @@
 # Commit And Conquer
 
 ## Overview
-The repository contains a full-stack application with a **Next.js** frontend and a **FastAPI** backend, with connection to a postgresql (use of neondb is recommended).
+The repository contains a full-stack application with a **Next.js** frontend and a **FastAPI** backend, with connection to a postgresql (use of neondb is recommended)...
 
 ## Folder Structure
 ```
@@ -122,50 +122,50 @@ repo-root/
 ## LeaderBoard 🏆
 
 <!-- LEADERBOARD_START -->
-1. CypherSquad: 0
-2. Abenders: 0
-3. DeVvoyagers: 0
-4. 404 Not Found : 0
-5. Anveshika: 0
-6. Talaash : 0
-7. Low Day: 0
-8. BitbyBit: 0
-9. Codestorm : 0
-10. Bototrons: 0
-11. Anveshika : 0
-12. Team : 0
-13. SayGex: 0
-14. Gitify: 0
-15. Thund3rbird : 0
-16. Clueless : 0
-17. Aquaman: 0
-18. what is git?: 0
-19. Quark Script: 0
-20. Team 201: 0
-21. Team Mast Orbiters: 0
-22. Team UNO: 0
-23. Yeagerists: 0
-24. Kisi ka laptop kisi ka code: 0
-25. Bottle cap: 0
-26. Code phatt gya: 0
-27. oggy & the cockroaches : 0
-28. Non Coders: 0
-29. Kshitij Prasad : 0
-30. Merge Masters : 0
-31. Alpha four: 0
-32. OpnSrc: 0
-33. Code 404: 0
-34. Merge Masters: 0
-35. code overflow: 0
-36. Dora team: 0
-37. Error : 0
-38. Tech Titans : 0
-39. Super queens: 0
-40. Codepushers: 0
-41. Ctrl + c & Ctrl + v: 0
-42. Strive Squad : 0
-43. Game changers: 0
-44. DQueen: 0
+1. SayGex: 45
+2. Talaash : 35
+3. Code 404: 32
+4. Clueless : 10
+5. DQueen: 5
+6. Gitcoders: 5
+7. Merge Masters: 0
+8. what is git?: 0
+9. 404 Not Found : 0
+10. Anveshika: 0
+11. Low Day: 0
+12. Tech Titans : 0
+13. Codestorm : 0
+14. Bototrons: 0
+15. Anveshika : 0
+16. Team : 0
+17. Gitify: 0
+18. Thund3rbird : 0
+19. Aquaman: 0
+20. Super queens: 0
+21. Quark Script: 0
+22. Team 201: 0
+23. Team Mast Orbiters: 0
+24. Team UNO: 0
+25. Yeagerists: 0
+26. Kisi ka laptop kisi ka code: 0
+27. Bottle cap: 0
+28. Code phatt gya: 0
+29. oggy & the cockroaches : 0
+30. Non Coders: 0
+31. Kshitij Prasad : 0
+32. Codepushers: 0
+33. Alpha four: 0
+34. OpnSrc: 0
+35. Abenders: 0
+36. code overflow: 0
+37. Dora team: 0
+38. Error : 0
+39. BitbyBit: 0
+40. DeVvoyagers: 0
+41. Merge Masters : 0
+42. Ctrl + c & Ctrl + v: 0
+43. Strive Squad : 0
+44. Game changers: 0
 45. RedEye: 0
 46. Aatu Jhaatu: 0
 47. Ace: 0
@@ -192,6 +192,6 @@ repo-root/
 68. PR RANGERS: 0
 69. Leviathan Squad: 0
 70. Octagram: 0
-71. Gitcoders: 0
+71. CypherSquad: 0
 <!-- LEADERBOARD_END -->
 
